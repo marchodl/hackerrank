@@ -26,5 +26,8 @@
     <ClInclude Include="std.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="max_of_four.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
